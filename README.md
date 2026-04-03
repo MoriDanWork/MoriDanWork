@@ -1,4 +1,1 @@
-- 👋 Hi, I’m MoriDan.
-- 👀 I’m interested in desktop application development.
-- 🌱 I’m currently learning C# .Net. 
-- 💞️ I’m looking to collaborate on any .Net projects.
+
